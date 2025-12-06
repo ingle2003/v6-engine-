@@ -98,7 +98,7 @@ The engine working cycle is animated using **CATIA DMU Kinematics**:
 
 ## 📸 Screenshots
 
-![alt text](model.png)
+![alt text](Model.png)
 
 
 ---
