@@ -90,17 +90,16 @@ The engine working cycle is animated using **CATIA DMU Kinematics**:
 * Motion validation through mechanism joints
 * Demonstrates practical understanding of engine dynamics
 
-> *You can upload a GIF or video of the animation for more visual impact.*
+![Engine Simulation](sim.gif)
+
+
 
 ---
 
 ## 📸 Screenshots
 
-Add your:
+![alt text](model.png)
 
-* Engine block renders
-* Crankshaft & piston assembly views
-* Kinematic simulation snapshots
 
 ---
 
